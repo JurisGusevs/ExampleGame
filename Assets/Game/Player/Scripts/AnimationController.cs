@@ -4,9 +4,13 @@ using UnityEngine;
 
 public class AnimationController : MonoBehaviour
 {
+
+    [SerializeField] private AudioSource jump;
+    [SerializeField] private AudioSource run;
     private Animator animator;
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
+    private PlayerMovement playerMovement;
 
     // Start is called before the first frame update
     void Start()
@@ -14,36 +18,44 @@ public class AnimationController : MonoBehaviour
         animator = gameObject.GetComponent<Animator>();
         rb = gameObject.GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        playerMovement = GetComponent<PlayerMovement>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Mathf.Abs(rb.velocity.x) > 0.1f && Mathf.Abs(rb.velocity.y) < 1f)
+        if (playerMovement.isAlive)
         {
-            if (rb.velocity.x > 0.1f) spriteRenderer.flipX = false; else if (rb.velocity.x < -0.1f) spriteRenderer.flipX = true;
-            animator.SetTrigger("Run");
-        }
-        else if (rb.velocity.y > 1.5f)
-        {
-            animator.SetTrigger("Jump");
-            if (rb.velocity.x < -0.1f)
+            if (Mathf.Abs(rb.velocity.x) > 0.1f && Mathf.Abs(rb.velocity.y) < 1f)
             {
-                spriteRenderer.flipX = true;
+                if (rb.velocity.x > 0.1f) spriteRenderer.flipX = false; else if (rb.velocity.x < -0.1f) spriteRenderer.flipX = true;
+                animator.SetTrigger("Run");
+                //run.Play();
             }
-            else if (rb.velocity.x > 0.1f) 
+            else if (rb.velocity.y > 1.5f)
             {
-                spriteRenderer.flipX = false;
+                //run.Stop();
+                //jump.Play();
+                animator.SetTrigger("Jump");
+                if (rb.velocity.x < -0.1f)
+                {
+                    spriteRenderer.flipX = true;
+                }
+                else if (rb.velocity.x > 0.1f)
+                {
+                    spriteRenderer.flipX = false;
+                }
             }
-        }
-        else if (rb.velocity.y < -1.5f)
-        {
-            animator.SetTrigger("Fall");
-            if (rb.velocity.x > 0.1f) spriteRenderer.flipX = false; else if (rb.velocity.x < -0.1f) spriteRenderer.flipX = true;
-        }
-        else if (Input.GetAxis("Horizontal") == 0f)
-        {
-            animator.SetTrigger("Idle");
+            else if (rb.velocity.y < -1.5f)
+            {
+                animator.SetTrigger("Fall");
+                if (rb.velocity.x > 0.1f) spriteRenderer.flipX = false; else if (rb.velocity.x < -0.1f) spriteRenderer.flipX = true;
+            }
+            else if (Input.GetAxis("Horizontal") == 0f)
+            {
+                //run.Stop();
+                animator.SetTrigger("Idle");
+            }
         }
     }
 }

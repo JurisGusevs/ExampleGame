@@ -13,9 +13,11 @@ GameObject:
   - component: {fileID: 2388161958121755356}
   - component: {fileID: 7146724238039571899}
   - component: {fileID: 5782242533415773879}
+  - component: {fileID: 951310796652993028}
+  - component: {fileID: 2203384968650431465}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -103,7 +105,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 755242070d388994f9a8bcee9d312f91, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -176,3 +178,37 @@ MonoBehaviour:
   jumpableGround:
     serializedVersion: 2
     m_Bits: 128
+  isAlive: 1
+--- !u!95 &951310796652993028
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6385511206291488328}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b491ea634fdc3584887f53f2e065236d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2203384968650431465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6385511206291488328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3ca7d659f8019748a0268026338367a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
