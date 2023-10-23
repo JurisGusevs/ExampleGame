@@ -14,7 +14,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private int lifes = 3;
     [SerializeField] private TMP_Text lifesText;
     private int scoreValue = 0;
-
+    
     public static GameManager Instance { get; private set; }
 
     private void Start()

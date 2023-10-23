@@ -480,7 +480,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -555,7 +555,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Terrain (16x16)_0
+      name: Terrain Sliced (16x16)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -563,20 +563,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8481e2313de930c45aa2009d31d2980f
-      internalID: -4874278423985981231
+      spriteID: bf1dc9b14bb25044e8e488dce709edb7
+      internalID: 1411288051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_1
+      name: Terrain Sliced (16x16)_1
       rect:
         serializedVersion: 2
         x: 16
@@ -584,20 +584,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d6c8b4476055584f975ea7f14f1e5f4
-      internalID: 2492004042214043949
+      spriteID: 9fbc05fafdbbe2344aeac4cecb6936f9
+      internalID: -1052809310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_2
+      name: Terrain Sliced (16x16)_2
       rect:
         serializedVersion: 2
         x: 32
@@ -605,20 +605,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c00895fa81e7044e8f299f30912286e
-      internalID: 8471289998749917440
+      spriteID: 4b42a0fdf6606c44ea50490cd55f0836
+      internalID: -1897659984
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_3
+      name: Terrain Sliced (16x16)_3
       rect:
         serializedVersion: 2
         x: 48
@@ -626,20 +626,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cad5cf978afc0f440b41abc3a3c6f8af
-      internalID: 397718093594370940
+      spriteID: c3cbf8dbf53ac9f4190606dc1f22eb5b
+      internalID: -1676945889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_4
+      name: Terrain Sliced (16x16)_4
       rect:
         serializedVersion: 2
         x: 64
@@ -647,20 +647,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc0eb9fc060cd5e458cde896ed3d07c1
-      internalID: 4716054802376701170
+      spriteID: c6b63580bd6b69a40bfffbee7df9b97d
+      internalID: -189975912
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_5
+      name: Terrain Sliced (16x16)_5
       rect:
         serializedVersion: 2
         x: 96
@@ -668,20 +668,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51bb81c75e50e7547b576987e6264c23
-      internalID: -8620202154233844528
+      spriteID: 4345d724a918ec640b39ac7abc37a1ee
+      internalID: 634229077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_6
+      name: Terrain Sliced (16x16)_6
       rect:
         serializedVersion: 2
         x: 112
@@ -689,20 +689,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a69379e33ee33124889ad19c6f4ca56a
-      internalID: -7517053698926566003
+      spriteID: 68b6d5d63c854d14db3566a0f8daa960
+      internalID: 669544203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_7
+      name: Terrain Sliced (16x16)_7
       rect:
         serializedVersion: 2
         x: 128
@@ -710,20 +710,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 811b137a2a0d40946be35aad29382f91
-      internalID: 3020870990670601969
+      spriteID: 6441f382b462cc945acd9209f609c2b0
+      internalID: -2016575813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_8
+      name: Terrain Sliced (16x16)_8
       rect:
         serializedVersion: 2
         x: 144
@@ -731,20 +731,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7c3c9dcbebb0604298cd4e4676d1234
-      internalID: 1685935324672158413
+      spriteID: 361b63c5bc3052246909c4d4f0f2a538
+      internalID: -20693043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_9
+      name: Terrain Sliced (16x16)_9
       rect:
         serializedVersion: 2
         x: 160
@@ -752,20 +752,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f463a3eecd1ddb4e86dacb4a1c18496
-      internalID: 8022139226935704013
+      spriteID: 279ee176ffd94e040a35303d170eb0cb
+      internalID: -546699860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_10
+      name: Terrain Sliced (16x16)_10
       rect:
         serializedVersion: 2
         x: 192
@@ -773,20 +773,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b20fd0a1302b7dd4eaf4aa847256ae2d
-      internalID: 5587568460378422633
+      spriteID: 236c9e2587e7cec42ad0438738bc2108
+      internalID: -1385204917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_11
+      name: Terrain Sliced (16x16)_11
       rect:
         serializedVersion: 2
         x: 208
@@ -794,20 +794,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fcf75d879fe7494b8c7f425e7cf832f
-      internalID: 4987498479824627636
+      spriteID: ed40781d2c4bf974298adf6e0fc04659
+      internalID: -1558193634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_12
+      name: Terrain Sliced (16x16)_12
       rect:
         serializedVersion: 2
         x: 224
@@ -815,20 +815,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 343c8d5386d77dc4081a6c2a5834181b
-      internalID: 6480251376165907240
+      spriteID: 63db7506e2c4b984bb9c610b31db45b8
+      internalID: 1657935740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_13
+      name: Terrain Sliced (16x16)_13
       rect:
         serializedVersion: 2
         x: 240
@@ -836,20 +836,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35e85939cbaf5a64aba7e510aadd49f3
-      internalID: -8795747966950415410
+      spriteID: d3cd88e8350477c43973ac1ce7d9a03e
+      internalID: -146817693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_14
+      name: Terrain Sliced (16x16)_14
       rect:
         serializedVersion: 2
         x: 272
@@ -857,20 +857,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71f5cd4fa688e4e4589ebb1e0300b92a
-      internalID: -6278356596846833739
+      spriteID: 53fd3319a68790e40aa4aa9c4a76f43f
+      internalID: 414917527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_15
+      name: Terrain Sliced (16x16)_15
       rect:
         serializedVersion: 2
         x: 288
@@ -878,20 +878,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9304e930d38465643a5f8e9c4060ef99
-      internalID: -7850267199778421155
+      spriteID: dcafaaaf0f707b4499f390702043d760
+      internalID: -1529831506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_16
+      name: Terrain Sliced (16x16)_16
       rect:
         serializedVersion: 2
         x: 304
@@ -899,20 +899,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43384c809529cf846908d04c497d7513
-      internalID: 8102182086558406705
+      spriteID: a6e7458439a174d478962b825afb693d
+      internalID: 447818327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_17
+      name: Terrain Sliced (16x16)_17
       rect:
         serializedVersion: 2
         x: 0
@@ -920,20 +920,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 355013bdadeb13f459de732acd152366
-      internalID: 6918280329820428914
+      spriteID: b7a1f03bccc05f14aab3365d2f24c0dc
+      internalID: -802640981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_18
+      name: Terrain Sliced (16x16)_18
       rect:
         serializedVersion: 2
         x: 16
@@ -941,20 +941,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbe714777fdc93c499eb58b044898ec7
-      internalID: -3946849515626757761
+      spriteID: a1bdc02a33e3b44449cbc35207ed9108
+      internalID: 133661525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_19
+      name: Terrain Sliced (16x16)_19
       rect:
         serializedVersion: 2
         x: 32
@@ -962,20 +962,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85bc0576359144f4683dc352004ffd51
-      internalID: -2698208165065819517
+      spriteID: 63cffaaff10be174b9e005167dddf4b4
+      internalID: -1172529047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_20
+      name: Terrain Sliced (16x16)_20
       rect:
         serializedVersion: 2
         x: 48
@@ -983,20 +983,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80c04266d5a08db4b82e4e03fcf53c55
-      internalID: -5448943668070679941
+      spriteID: c6fab23503a31a240b36017caf655e80
+      internalID: -9100410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_21
+      name: Terrain Sliced (16x16)_21
       rect:
         serializedVersion: 2
         x: 64
@@ -1004,20 +1004,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3465f6336964aaf4a96c9d7f0be787c3
-      internalID: -2572975058836569894
+      spriteID: 8df02312688a1064782fbf42ea3ee05c
+      internalID: -654537405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_22
+      name: Terrain Sliced (16x16)_22
       rect:
         serializedVersion: 2
         x: 96
@@ -1025,20 +1025,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b1e49eefe1a745469d7d17c6e5deb03
-      internalID: 5714336816974921154
+      spriteID: f2b8afb239c88e04a839ae7048574e9d
+      internalID: 579328374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_23
+      name: Terrain Sliced (16x16)_23
       rect:
         serializedVersion: 2
         x: 112
@@ -1046,20 +1046,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc9fe3fe906f2f84098e5e26860415b8
-      internalID: 8704577166008928185
+      spriteID: 9c023ca061f7e3644a53dd5a115340f9
+      internalID: 1304961942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_24
+      name: Terrain Sliced (16x16)_24
       rect:
         serializedVersion: 2
         x: 128
@@ -1067,20 +1067,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51798fdf0d06a334ca041f5a0dec101a
-      internalID: 313651839404696180
+      spriteID: 09a92a4f7cde5294aa47ce95fa354c7d
+      internalID: 624824738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_25
+      name: Terrain Sliced (16x16)_25
       rect:
         serializedVersion: 2
         x: 144
@@ -1088,20 +1088,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: beab88b6a3e7b1a408ddc3ac65b26fb4
-      internalID: -1968872540364177098
+      spriteID: f58441f981fd93c48b6765d6b78367fc
+      internalID: -1001661072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_26
+      name: Terrain Sliced (16x16)_26
       rect:
         serializedVersion: 2
         x: 160
@@ -1109,20 +1109,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a9ff440b8beba948baa530b116c1288
-      internalID: -6401146908380638247
+      spriteID: 7a1e7caf244e9154e8100f4fb345f8bd
+      internalID: -905398828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_27
+      name: Terrain Sliced (16x16)_27
       rect:
         serializedVersion: 2
         x: 192
@@ -1130,20 +1130,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70565ce6a2417904dbda04cfdf55f5c6
-      internalID: -3271834841568197018
+      spriteID: 310d68ef6adff774b8f3fcc19c971508
+      internalID: -325538217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_28
+      name: Terrain Sliced (16x16)_28
       rect:
         serializedVersion: 2
         x: 208
@@ -1151,20 +1151,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85188324e67f2264e87c1aedc9f5067d
-      internalID: -3097802831490656063
+      spriteID: f6f8490912c89b642a6584a936f79f67
+      internalID: 1420015163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_29
+      name: Terrain Sliced (16x16)_29
       rect:
         serializedVersion: 2
         x: 224
@@ -1172,20 +1172,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c56f44b0660827648b300661b10edb2b
-      internalID: -8182233202742861025
+      spriteID: 3da1404643071c74ea0ec74ca7252bf8
+      internalID: -2029936497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_30
+      name: Terrain Sliced (16x16)_30
       rect:
         serializedVersion: 2
         x: 240
@@ -1193,20 +1193,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 500464aa9eed2024fa75a42158ee8b16
-      internalID: -1730604581034617779
+      spriteID: 092fab47b0b8bee4abc8c184663784ea
+      internalID: 78724487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_31
+      name: Terrain Sliced (16x16)_31
       rect:
         serializedVersion: 2
         x: 272
@@ -1214,20 +1214,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a37377961e6f234f80fe19d60525cb7
-      internalID: -1491035274662818768
+      spriteID: 18fe6f44659fc964fa22b15ec2633e25
+      internalID: 798513116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_32
+      name: Terrain Sliced (16x16)_32
       rect:
         serializedVersion: 2
         x: 288
@@ -1235,20 +1235,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8d41b41f457773478f418102bc35e63
-      internalID: -223391217462372170
+      spriteID: f06b087541f9c454cba84f11afb5d7f8
+      internalID: 437304081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_33
+      name: Terrain Sliced (16x16)_33
       rect:
         serializedVersion: 2
         x: 304
@@ -1256,20 +1256,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8047a77454920674883298e854a0947a
-      internalID: 611065533247025525
+      spriteID: 01a46bdf172d0eb47aa11243c96c1c7a
+      internalID: -1710553058
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_34
+      name: Terrain Sliced (16x16)_34
       rect:
         serializedVersion: 2
         x: 0
@@ -1277,20 +1277,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8aee6b961f4a6d34da21f2b3436527e0
-      internalID: 4356392584696007802
+      spriteID: cef91059bf24e3a47abe83071552f9ec
+      internalID: -1299667427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_35
+      name: Terrain Sliced (16x16)_35
       rect:
         serializedVersion: 2
         x: 16
@@ -1298,20 +1298,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17157eddf6f8e8540a0278fb484c94cc
-      internalID: -8565927180804605051
+      spriteID: c295103b7bfc9da4b9562f12e67af6ea
+      internalID: -668829590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_36
+      name: Terrain Sliced (16x16)_36
       rect:
         serializedVersion: 2
         x: 32
@@ -1319,20 +1319,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e5bfc56596012a4298d0bcb19c849e5
-      internalID: -7788903373117692988
+      spriteID: 04b359827044b794996bf6a963c53fca
+      internalID: 1006598060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_37
+      name: Terrain Sliced (16x16)_37
       rect:
         serializedVersion: 2
         x: 96
@@ -1340,20 +1340,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58d2df4356cd9574cb63108658393192
-      internalID: 1918823624152674874
+      spriteID: f6a084c2c9b80334fb1710353b153ec4
+      internalID: -597581649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_38
+      name: Terrain Sliced (16x16)_38
       rect:
         serializedVersion: 2
         x: 112
@@ -1361,20 +1361,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e976cbd054bf2b14881da04c65421304
-      internalID: 965125185638226396
+      spriteID: 2810612cc7786f449aaac8ccf10e9c69
+      internalID: 1919703492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_39
+      name: Terrain Sliced (16x16)_39
       rect:
         serializedVersion: 2
         x: 128
@@ -1382,20 +1382,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bbe26bb169929a49a33568e6a6bf93c
-      internalID: 3631698497521491291
+      spriteID: db80159a16785bc40b084d5ed462d0cd
+      internalID: -1423788347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_40
+      name: Terrain Sliced (16x16)_40
       rect:
         serializedVersion: 2
         x: 208
@@ -1403,20 +1403,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 032e7fd0be30b524b8e701a6dd627087
-      internalID: -1385159882611531606
+      spriteID: 27c9e8b20526008468c3aa5937986a0d
+      internalID: 384222007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_41
+      name: Terrain Sliced (16x16)_41
       rect:
         serializedVersion: 2
         x: 224
@@ -1424,20 +1424,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96a0ce093de1a8241a46add302b6fa47
-      internalID: 6882983052497979040
+      spriteID: aa48db71cd758c44a943c2489085df6a
+      internalID: -1235464763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_42
+      name: Terrain Sliced (16x16)_42
       rect:
         serializedVersion: 2
         x: 240
@@ -1445,20 +1445,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f202ea0712260d14f9cb1b6464322c47
-      internalID: 5620700161029325194
+      spriteID: 4d017504d4a365b49a5f951110f5bfd7
+      internalID: -1081455827
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_43
+      name: Terrain Sliced (16x16)_43
       rect:
         serializedVersion: 2
         x: 272
@@ -1466,20 +1466,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e155efab9d406948922fee4a0ba777d
-      internalID: 4373040517201769238
+      spriteID: 8d2920ebeac66f44697805e1cb338e1d
+      internalID: -1623154796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_44
+      name: Terrain Sliced (16x16)_44
       rect:
         serializedVersion: 2
         x: 288
@@ -1487,20 +1487,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7598267a7bf5f364fbfc359cc2a4632e
-      internalID: -6530495296205248430
+      spriteID: ae679ca38dd830a45aa7bfa249968a0d
+      internalID: 1622339455
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_45
+      name: Terrain Sliced (16x16)_45
       rect:
         serializedVersion: 2
         x: 304
@@ -1508,20 +1508,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c1499e5db5d65640801912a2be4e3e2
-      internalID: 2248595124770686365
+      spriteID: 9ff96eb997dde434b96208660305792f
+      internalID: 1473443195
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_46
+      name: Terrain Sliced (16x16)_46
       rect:
         serializedVersion: 2
         x: 0
@@ -1529,20 +1529,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c295eefb958b0b842aa438f68690dddc
-      internalID: 59160463414151494
+      spriteID: c08a3bc7517ded8498cf0b239ca90d6e
+      internalID: -1926149883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_47
+      name: Terrain Sliced (16x16)_47
       rect:
         serializedVersion: 2
         x: 16
@@ -1550,20 +1550,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 191eb46a76d3a8d40a47dbd6e8c46ba0
-      internalID: 7769017978755655707
+      spriteID: 1c11cd26856504e498fb8697a9eeb83f
+      internalID: 501499042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_48
+      name: Terrain Sliced (16x16)_48
       rect:
         serializedVersion: 2
         x: 32
@@ -1571,20 +1571,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd73bf53f445bf442bf478fbd98213ce
-      internalID: 4651539075410445323
+      spriteID: 68275f36c433029438ca8e3c97e6e5fc
+      internalID: 967356348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_49
+      name: Terrain Sliced (16x16)_49
       rect:
         serializedVersion: 2
         x: 48
@@ -1592,20 +1592,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8c634f53a68df24ea8e612f8dd1052d
-      internalID: 2934133866269456315
+      spriteID: 3a13bc7492ddd654bb2762c2e84a6108
+      internalID: -1264192569
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_50
+      name: Terrain Sliced (16x16)_50
       rect:
         serializedVersion: 2
         x: 64
@@ -1613,20 +1613,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bad0c40997e4334fb86372b64e0d2e5
-      internalID: 1034891850837087948
+      spriteID: 3a49b63208d8d8d4eab03a212dda8436
+      internalID: -660690589
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_51
+      name: Terrain Sliced (16x16)_51
       rect:
         serializedVersion: 2
         x: 96
@@ -1634,20 +1634,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b9b918b69ab67945acd0144de1c2b65
-      internalID: -4533138595082870998
+      spriteID: f702f3dffbae7334e909dbc3138654cf
+      internalID: -1163948693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_52
+      name: Terrain Sliced (16x16)_52
       rect:
         serializedVersion: 2
         x: 112
@@ -1655,20 +1655,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0025ba124639b8544a924de23cfa1e11
-      internalID: 3702685922149842701
+      spriteID: fadcccbeb044a2d4b8072aef3b838abd
+      internalID: 2087149524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_53
+      name: Terrain Sliced (16x16)_53
       rect:
         serializedVersion: 2
         x: 128
@@ -1676,20 +1676,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ff9782ca5f9055469d4864509607e8b
-      internalID: 510484679990689147
+      spriteID: 8f773c314ce42a446b1040bcb8326bcb
+      internalID: -1546879527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_54
+      name: Terrain Sliced (16x16)_54
       rect:
         serializedVersion: 2
         x: 144
@@ -1697,20 +1697,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50bb9df0a366b1540a51ed4a2e1691be
-      internalID: 3718556811081376101
+      spriteID: 2210fa9c0046b524ca6618505718728f
+      internalID: 2079691315
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_55
+      name: Terrain Sliced (16x16)_55
       rect:
         serializedVersion: 2
         x: 160
@@ -1718,20 +1718,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af2076ef0c5587d4ebde396f90f2b82c
-      internalID: -5869233480101591377
+      spriteID: 074f45ba250f26f4185a375aac484a96
+      internalID: -920510475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_56
+      name: Terrain Sliced (16x16)_56
       rect:
         serializedVersion: 2
         x: 192
@@ -1739,20 +1739,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27892bbe77b3e194ab2fbb579b4a4728
-      internalID: -2615569002567638836
+      spriteID: 6362ff5e0f87c474f81b0fd9f8b81eb9
+      internalID: -561791958
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_57
+      name: Terrain Sliced (16x16)_57
       rect:
         serializedVersion: 2
         x: 208
@@ -1760,20 +1760,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34a2258d1232c4a4badddaec30b4150a
-      internalID: 772467259971446145
+      spriteID: 8938812a78ac9ea48a564893ab76590c
+      internalID: 2124173925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_58
+      name: Terrain Sliced (16x16)_58
       rect:
         serializedVersion: 2
         x: 224
@@ -1781,20 +1781,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b25fecb52726724f81aa060dee0e29f
-      internalID: -39983623799505075
+      spriteID: c7d94286d50fd9146aec6c93e24f002f
+      internalID: 1551492625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_59
+      name: Terrain Sliced (16x16)_59
       rect:
         serializedVersion: 2
         x: 240
@@ -1802,20 +1802,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72bf3401dafd7414d94bed5773664475
-      internalID: 6999343348047764492
+      spriteID: d42e65ba70ff78a4a856c3a47f278f41
+      internalID: -1360748901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_60
+      name: Terrain Sliced (16x16)_60
       rect:
         serializedVersion: 2
         x: 272
@@ -1823,20 +1823,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 273ff7ed94fbc7e41bf3253b333e3529
-      internalID: -6933530849576539303
+      spriteID: bd0d568e00297e84d87e9ff375950234
+      internalID: -1891718191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_61
+      name: Terrain Sliced (16x16)_61
       rect:
         serializedVersion: 2
         x: 288
@@ -1844,20 +1844,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36060a763959d474e9d505099890cf97
-      internalID: -8849650766351124748
+      spriteID: bc5d0c4fb6795804baddb687e25784da
+      internalID: -1487264931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_62
+      name: Terrain Sliced (16x16)_62
       rect:
         serializedVersion: 2
         x: 304
@@ -1865,20 +1865,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9526e8ad2a7f5ba4b8191682fa26a423
-      internalID: 5344191953466923600
+      spriteID: ba1dc83bec745164ea929124a7dde892
+      internalID: -1680139619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_63
+      name: Terrain Sliced (16x16)_63
       rect:
         serializedVersion: 2
         x: 320
@@ -1886,20 +1886,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5d5bde5f612c0e498dbd7c5c3d1fac8
-      internalID: 2110485755423906440
+      spriteID: d344b91752797f948bef092689097aef
+      internalID: 498266684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_64
+      name: Terrain Sliced (16x16)_64
       rect:
         serializedVersion: 2
         x: 336
@@ -1907,20 +1907,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e1d8bfffefdefb42affecc349b0eedd
-      internalID: 611278257802682203
+      spriteID: 8f66e4286ed306540ad30b6b134bb79f
+      internalID: -536331713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_65
+      name: Terrain Sliced (16x16)_65
       rect:
         serializedVersion: 2
         x: 0
@@ -1928,20 +1928,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4bd6f8f9d85da44a888e60e0fa829f9
-      internalID: 8568688612705805593
+      spriteID: 32759df05521518498d6838ff1703343
+      internalID: 1207757720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_66
+      name: Terrain Sliced (16x16)_66
       rect:
         serializedVersion: 2
         x: 16
@@ -1949,20 +1949,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af4186cd12344514686fa1cc177a9d65
-      internalID: -4293226751833479062
+      spriteID: c767e6356efa1634995713f8c0f0e9e8
+      internalID: 181843827
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_67
+      name: Terrain Sliced (16x16)_67
       rect:
         serializedVersion: 2
         x: 32
@@ -1970,20 +1970,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0cb23d08ac44144087432f86086aea9
-      internalID: -531863552409210314
+      spriteID: 0386fc6d36619db43bc790f0a29ed3c5
+      internalID: 1559531998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_68
+      name: Terrain Sliced (16x16)_68
       rect:
         serializedVersion: 2
         x: 48
@@ -1991,20 +1991,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf9a911d8e577554cb61ee54c6a719bc
-      internalID: 3220740477721170248
+      spriteID: 280320fa0877104418ce5fc6cbf4aa3f
+      internalID: -751116661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_69
+      name: Terrain Sliced (16x16)_69
       rect:
         serializedVersion: 2
         x: 64
@@ -2012,20 +2012,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5a8fcc1e7bcb794c8b1e2bc77f96e5c
-      internalID: -8232957222563989430
+      spriteID: 09bb28c48bbdc9a43889da904ebc9807
+      internalID: -1412649045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_70
+      name: Terrain Sliced (16x16)_70
       rect:
         serializedVersion: 2
         x: 96
@@ -2033,20 +2033,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb26acfd9a13e994abba9513f96b0380
-      internalID: 3581976363580684779
+      spriteID: ba63a33b79d4c8f4d910e079345a1af9
+      internalID: 830149314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_71
+      name: Terrain Sliced (16x16)_71
       rect:
         serializedVersion: 2
         x: 112
@@ -2054,20 +2054,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e62a0d3ac1361fd48bc7fb1ab0b251bd
-      internalID: 8137121077619138534
+      spriteID: 257faaa0e2d83174a9f2fdd6e5b2f7b4
+      internalID: 586197128
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_72
+      name: Terrain Sliced (16x16)_72
       rect:
         serializedVersion: 2
         x: 128
@@ -2075,20 +2075,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 968a065b4f393a749bcd3759655b20bb
-      internalID: -4450007684230045513
+      spriteID: 7d79c3a5503e6a248a97847b239854f4
+      internalID: -1392928492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_73
+      name: Terrain Sliced (16x16)_73
       rect:
         serializedVersion: 2
         x: 144
@@ -2096,20 +2096,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2606a16fe2bcebb49ab7ec35db8bbabf
-      internalID: 368488948622713827
+      spriteID: 853599e06be85be4da30ea4dd16f282f
+      internalID: 194998402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_74
+      name: Terrain Sliced (16x16)_74
       rect:
         serializedVersion: 2
         x: 160
@@ -2117,20 +2117,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75fe74b76f5ccb244b164b462770922b
-      internalID: -1652666043038260038
+      spriteID: 8042f0d450a72114cb3ff7acd96a2125
+      internalID: -2089900500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_75
+      name: Terrain Sliced (16x16)_75
       rect:
         serializedVersion: 2
         x: 192
@@ -2138,20 +2138,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95db90a63dc628149a74ad63c9dd9191
-      internalID: -3581127029532586042
+      spriteID: 2abe7b884ce2a894080c3f7f54fd3f6d
+      internalID: 2051663979
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_76
+      name: Terrain Sliced (16x16)_76
       rect:
         serializedVersion: 2
         x: 208
@@ -2159,20 +2159,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 679c916f31f83684583cda7806ee2957
-      internalID: -1130122408560378385
+      spriteID: 0485d840ed87b5d4e99f0cb98bf65177
+      internalID: 2112586496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_77
+      name: Terrain Sliced (16x16)_77
       rect:
         serializedVersion: 2
         x: 224
@@ -2180,20 +2180,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b338235731b65fa4eb178060c4a7e567
-      internalID: 1383883272258276261
+      spriteID: 756449532bd34c34184c0642e37ae9ee
+      internalID: 405785738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_78
+      name: Terrain Sliced (16x16)_78
       rect:
         serializedVersion: 2
         x: 240
@@ -2201,20 +2201,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf43c2c0bb2668d49bbc835e9347e5e6
-      internalID: -5125620877619029284
+      spriteID: ad4caeb4ab7f49e4f9e10eec834c9d3b
+      internalID: -1242205549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_79
+      name: Terrain Sliced (16x16)_79
       rect:
         serializedVersion: 2
         x: 272
@@ -2222,20 +2222,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41c5e283c9e4f22439ed67b3a3944830
-      internalID: -7056944154279210060
+      spriteID: ecc727ed7d2a88c40a3efcb70ac3304f
+      internalID: -1565384311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_80
+      name: Terrain Sliced (16x16)_80
       rect:
         serializedVersion: 2
         x: 288
@@ -2243,20 +2243,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f367b08925e10f448b6f78877aa7380
-      internalID: -9178860142635623461
+      spriteID: d46709ec4881a4749b42aa66ab71697e
+      internalID: 1374020042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_81
+      name: Terrain Sliced (16x16)_81
       rect:
         serializedVersion: 2
         x: 304
@@ -2264,20 +2264,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7562b34a86122454ab6ea298ba8bb952
-      internalID: -5377211804188701585
+      spriteID: 66e979d5546a4fe40a280f35fb901f61
+      internalID: 1817909820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_82
+      name: Terrain Sliced (16x16)_82
       rect:
         serializedVersion: 2
         x: 320
@@ -2285,20 +2285,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7172168266d54b249881825f839d6962
-      internalID: -3332869691567337552
+      spriteID: 917e9739a672f714789f1fc15fb5edda
+      internalID: 1885482593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_83
+      name: Terrain Sliced (16x16)_83
       rect:
         serializedVersion: 2
         x: 336
@@ -2306,20 +2306,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33d1cdbb5a4547f4f859f22961749e8a
-      internalID: -7839824748867068813
+      spriteID: b45e4cdbc27bb0a4d935b4121bbdbf56
+      internalID: 257553379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_84
+      name: Terrain Sliced (16x16)_84
       rect:
         serializedVersion: 2
         x: 0
@@ -2327,20 +2327,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c386c6604b2741f4685abfb682801089
-      internalID: 4860222720029096845
+      spriteID: e4d6d2cf65a1f184884e4683bc31d1b7
+      internalID: -436107197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_85
+      name: Terrain Sliced (16x16)_85
       rect:
         serializedVersion: 2
         x: 16
@@ -2348,20 +2348,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: caaf04e65fbadf3409beaaeac1786fba
-      internalID: -8908544382962373700
+      spriteID: 3f6c2f785ac936543ba4868ad8a85361
+      internalID: -335025880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_86
+      name: Terrain Sliced (16x16)_86
       rect:
         serializedVersion: 2
         x: 32
@@ -2369,20 +2369,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3cd383c0043368249ad51fcf64369d69
-      internalID: 2534797647697017659
+      spriteID: 10bd0620ec2e539459943391bd07c419
+      internalID: -1939675119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_87
+      name: Terrain Sliced (16x16)_87
       rect:
         serializedVersion: 2
         x: 96
@@ -2390,20 +2390,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1194506ddbecab419d7a046bb33aea7
-      internalID: -701145450088738326
+      spriteID: c09e96e819ae24f449810e4b06a9afc4
+      internalID: 787848313
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_88
+      name: Terrain Sliced (16x16)_88
       rect:
         serializedVersion: 2
         x: 112
@@ -2411,20 +2411,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0f149d38622090459453d8d60198698
-      internalID: -7280874316543817821
+      spriteID: 9eded2685497fdd47966865bc50ffeaa
+      internalID: 307972935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_89
+      name: Terrain Sliced (16x16)_89
       rect:
         serializedVersion: 2
         x: 128
@@ -2432,20 +2432,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0dc1f507a7cea14bb63576bda451906
-      internalID: 7816257180041521445
+      spriteID: 1ccc4f81e1d4e9740bd52954923473ad
+      internalID: 829153010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_90
+      name: Terrain Sliced (16x16)_90
       rect:
         serializedVersion: 2
         x: 208
@@ -2453,20 +2453,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3728dd0923880344981705e67e16f1db
-      internalID: 4218957088357342075
+      spriteID: f4fe7f5943cab3b439684f5873d9b598
+      internalID: 332698447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_91
+      name: Terrain Sliced (16x16)_91
       rect:
         serializedVersion: 2
         x: 224
@@ -2474,20 +2474,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f8586d5bed04424ca97fcc24a1d8122
-      internalID: -1647121858502193189
+      spriteID: 7fff02ee1c90ab84b911fc98e8fd4a0e
+      internalID: -1279788533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_92
+      name: Terrain Sliced (16x16)_92
       rect:
         serializedVersion: 2
         x: 240
@@ -2495,20 +2495,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 636529c284f7f41498a1fe0c538a6318
-      internalID: 3045001923454373135
+      spriteID: bd0234dc2fa0aca458696f2bf576657b
+      internalID: 995767875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_93
+      name: Terrain Sliced (16x16)_93
       rect:
         serializedVersion: 2
         x: 272
@@ -2516,20 +2516,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7ee618bc5dec1f49873c426e73a25e3
-      internalID: 6046465229504819404
+      spriteID: 74a3e096c5de8154a8da56d516c944f8
+      internalID: 1833684668
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_94
+      name: Terrain Sliced (16x16)_94
       rect:
         serializedVersion: 2
         x: 288
@@ -2537,20 +2537,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f942ad0d4f86f24984ab837e03f1a36
-      internalID: 146925484895311433
+      spriteID: decbf9c210d2e584790510004528cec7
+      internalID: -225401177
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_95
+      name: Terrain Sliced (16x16)_95
       rect:
         serializedVersion: 2
         x: 304
@@ -2558,20 +2558,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0284523f1a693094e8db342b82e9c6a4
-      internalID: 3895720443503238059
+      spriteID: 0a5bf1f1e95652941892e6294ef61bbd
+      internalID: -368835425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_96
+      name: Terrain Sliced (16x16)_96
       rect:
         serializedVersion: 2
         x: 0
@@ -2579,20 +2579,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0986600f7152c854d9c5b8ec9a67f697
-      internalID: -9019234469899804686
+      spriteID: 983e62bdbacab2348a76711c33f95a83
+      internalID: -997017051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_97
+      name: Terrain Sliced (16x16)_97
       rect:
         serializedVersion: 2
         x: 16
@@ -2600,20 +2600,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 767660f4d39ac2c49b0745a199770ac4
-      internalID: 3666724916130892037
+      spriteID: 8d3aa5c86ed0f9145921789b76f06f6e
+      internalID: 580980240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_98
+      name: Terrain Sliced (16x16)_98
       rect:
         serializedVersion: 2
         x: 32
@@ -2621,20 +2621,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc23e70afd0abab4b9d9c8f59daa61a3
-      internalID: 4557074923728586563
+      spriteID: dd9f9bf8f3e5c8744b9d024c95844172
+      internalID: -2003543445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_99
+      name: Terrain Sliced (16x16)_99
       rect:
         serializedVersion: 2
         x: 48
@@ -2642,20 +2642,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70dcf51d5b09dec489b0249fa626ee40
-      internalID: -4531858634233595940
+      spriteID: fea8636098af31c41908483921e3e799
+      internalID: 547888773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_100
+      name: Terrain Sliced (16x16)_100
       rect:
         serializedVersion: 2
         x: 64
@@ -2663,20 +2663,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22e9d3453476e4e42a839fa72b48f4df
-      internalID: -9185552814043747542
+      spriteID: 263cd9287823bcb468209de5838c3f81
+      internalID: 954429035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_101
+      name: Terrain Sliced (16x16)_101
       rect:
         serializedVersion: 2
         x: 96
@@ -2684,20 +2684,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63bd99089e09a56419ae911285c745b2
-      internalID: -8204820221692255543
+      spriteID: 5cc5a180ade6dcb42a1cf8cbbf16ad92
+      internalID: -104388638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_102
+      name: Terrain Sliced (16x16)_102
       rect:
         serializedVersion: 2
         x: 112
@@ -2705,20 +2705,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54178813c0a1db34da4f1c0917b14c64
-      internalID: -6233458931719022677
+      spriteID: 0ffbdf4eb8f69334ea5550083d0371a7
+      internalID: 1582684494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_103
+      name: Terrain Sliced (16x16)_103
       rect:
         serializedVersion: 2
         x: 128
@@ -2726,20 +2726,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e636d67c26cb1e4a9db133cf0dd8a11
-      internalID: 1154340479819735195
+      spriteID: e75ce94c8653e4842932ecc6ba26faa4
+      internalID: 1503204991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_104
+      name: Terrain Sliced (16x16)_104
       rect:
         serializedVersion: 2
         x: 144
@@ -2747,20 +2747,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a02f1add9ec27140b74ba0f631e9e02
-      internalID: 4778045797586685428
+      spriteID: 6691d2b8ce1803e499a0a0ac46dec150
+      internalID: 1770049155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_105
+      name: Terrain Sliced (16x16)_105
       rect:
         serializedVersion: 2
         x: 160
@@ -2768,20 +2768,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21b04eac3296b9d42bfef712fcda2af9
-      internalID: 6636356914981313421
+      spriteID: 6cf49b1e94ea765439c72bd82f883912
+      internalID: -540054502
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_106
+      name: Terrain Sliced (16x16)_106
       rect:
         serializedVersion: 2
         x: 192
@@ -2789,20 +2789,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97a04a509b34e654ababa5e8437e2d3a
-      internalID: 1686551188809007541
+      spriteID: 96d60ecf72aa9d84bb17026e99ac6fee
+      internalID: -457495516
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_107
+      name: Terrain Sliced (16x16)_107
       rect:
         serializedVersion: 2
         x: 208
@@ -2810,20 +2810,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6061d273c2aefca48abfdd162a718110
-      internalID: -5930776587842900371
+      spriteID: 3c36a1c433ecaeb4aadad294aefd3b37
+      internalID: 1421652732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_108
+      name: Terrain Sliced (16x16)_108
       rect:
         serializedVersion: 2
         x: 224
@@ -2831,20 +2831,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ec2f3137f6b69046a3b65482e0d7a90
-      internalID: -130104546997218819
+      spriteID: 863768c1cb27e9848ab088b0ada662d7
+      internalID: -30626426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_109
+      name: Terrain Sliced (16x16)_109
       rect:
         serializedVersion: 2
         x: 240
@@ -2852,20 +2852,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e102fb079ded5ad4cb1f9941ea1be288
-      internalID: -557614441817400054
+      spriteID: 03ce637c7fdd48c419b4a2e7fa7ce910
+      internalID: 635977709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_110
+      name: Terrain Sliced (16x16)_110
       rect:
         serializedVersion: 2
         x: 272
@@ -2873,20 +2873,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b75a8a2c8a4decd428e6165d36539d18
-      internalID: -4356087948441045522
+      spriteID: cfa4af05b90a8c8489ae366d10209ac8
+      internalID: 1498481750
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_111
+      name: Terrain Sliced (16x16)_111
       rect:
         serializedVersion: 2
         x: 288
@@ -2894,20 +2894,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4b32f9b33e85374f83ebd7948b85d8f
-      internalID: 2379953761323448013
+      spriteID: 16f1e9992d1e77c459e0a8b0bbbb0def
+      internalID: -1678443307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_112
+      name: Terrain Sliced (16x16)_112
       rect:
         serializedVersion: 2
         x: 304
@@ -2915,20 +2915,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b365bf5b5c93144d9fa61a38be78fad
-      internalID: -8392802036319243359
+      spriteID: 0a73c30f07a2c06408c8ee85a1ab037b
+      internalID: -1074650550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_113
+      name: Terrain Sliced (16x16)_113
       rect:
         serializedVersion: 2
         x: 320
@@ -2936,20 +2936,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddb3dce8e3e3c3243a16d6ab12dbd7a5
-      internalID: 3768474000973419263
+      spriteID: 331a8f2e83aa19447a5f36c1f59a6595
+      internalID: 293177643
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_114
+      name: Terrain Sliced (16x16)_114
       rect:
         serializedVersion: 2
         x: 0
@@ -2957,20 +2957,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4d5e34840b0a2040874732822010006
-      internalID: -7876864015116417812
+      spriteID: c3285ffd2f3317044a627bf09847727e
+      internalID: 729805267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_115
+      name: Terrain Sliced (16x16)_115
       rect:
         serializedVersion: 2
         x: 16
@@ -2978,20 +2978,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f80853b9ab0f2f4f91f46c4077e276a
-      internalID: 2460501278191033764
+      spriteID: 8d30013b83e916140aadada96ed8d393
+      internalID: -541596922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_116
+      name: Terrain Sliced (16x16)_116
       rect:
         serializedVersion: 2
         x: 32
@@ -2999,20 +2999,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 982768d033a4e6343804a8e00c939ecf
-      internalID: 6516917985212256981
+      spriteID: ab97b8244193f1940b8a019f12b71dd4
+      internalID: 505263143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_117
+      name: Terrain Sliced (16x16)_117
       rect:
         serializedVersion: 2
         x: 48
@@ -3020,20 +3020,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ad25413e9951f945902b92fff816ea8
-      internalID: 2870588770018888475
+      spriteID: b9cfbd4899cc0714ea22547f19a0b9e7
+      internalID: -1980084303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_118
+      name: Terrain Sliced (16x16)_118
       rect:
         serializedVersion: 2
         x: 64
@@ -3041,20 +3041,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94e6159172486014b987c157ae25da8b
-      internalID: 6172093022122347682
+      spriteID: b64ef25581c5e65498c3b16c249bbc37
+      internalID: -79590184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_119
+      name: Terrain Sliced (16x16)_119
       rect:
         serializedVersion: 2
         x: 96
@@ -3062,20 +3062,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b266403ec6e9da24991d79e87562b674
-      internalID: -4745629342412378363
+      spriteID: 3d884d101ef08b14a83f5e84161fd0d0
+      internalID: 1417497381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_120
+      name: Terrain Sliced (16x16)_120
       rect:
         serializedVersion: 2
         x: 112
@@ -3083,20 +3083,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95cb5b93834b3f64aa0575aedb6c36ba
-      internalID: -796906297672391504
+      spriteID: fc4271831c2e4f2458b6cf26f6d1486d
+      internalID: 1389306428
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_121
+      name: Terrain Sliced (16x16)_121
       rect:
         serializedVersion: 2
         x: 128
@@ -3104,20 +3104,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 538087aa37e03934db9d2c9227dd3303
-      internalID: 517537040645658821
+      spriteID: 4f0149aa42a8e054b984ca14891dea93
+      internalID: -1305767161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_122
+      name: Terrain Sliced (16x16)_122
       rect:
         serializedVersion: 2
         x: 144
@@ -3125,20 +3125,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 985ee42afca223e45b6eeae4d3579c19
-      internalID: 2348904716778239224
+      spriteID: ecd4e7847fb1ec84ea8b91adad9f9428
+      internalID: 2090061341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_123
+      name: Terrain Sliced (16x16)_123
       rect:
         serializedVersion: 2
         x: 160
@@ -3146,20 +3146,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 304ec37634e8e7842982a5593744ccee
-      internalID: 6364211675350883068
+      spriteID: 64f875b856de01e429d7fab9715031db
+      internalID: -388365746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_124
+      name: Terrain Sliced (16x16)_124
       rect:
         serializedVersion: 2
         x: 192
@@ -3167,20 +3167,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: caffc1b89a073ce4aa10771788b7e649
-      internalID: -4506956802181919417
+      spriteID: 1f513a3773fa45c4194802ec45d937f0
+      internalID: 1645452195
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_125
+      name: Terrain Sliced (16x16)_125
       rect:
         serializedVersion: 2
         x: 208
@@ -3188,20 +3188,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2a622cd93f55de40bb53e6a26b6035b
-      internalID: -8554552240816166350
+      spriteID: b6ed9d5ec6356a04fa4012d36419c467
+      internalID: 491117742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_126
+      name: Terrain Sliced (16x16)_126
       rect:
         serializedVersion: 2
         x: 224
@@ -3209,20 +3209,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7510ff13242c034bb13cb84c6673dbc
-      internalID: 5155531445672774593
+      spriteID: 01b6ff172ad50044a9da640432a73462
+      internalID: 1398629683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_127
+      name: Terrain Sliced (16x16)_127
       rect:
         serializedVersion: 2
         x: 240
@@ -3230,20 +3230,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2765af387a133814db9d4b79d5e9c813
-      internalID: -8283946481429751769
+      spriteID: 7f25127b3574664459a57f6209ad311e
+      internalID: -437274343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_128
+      name: Terrain Sliced (16x16)_128
       rect:
         serializedVersion: 2
         x: 272
@@ -3251,20 +3251,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1316dfb269ecf6e4eb45773bcf7a5279
-      internalID: 1437503401646794464
+      spriteID: d017e573d4b8c1c41a66b90f3643a596
+      internalID: 144561106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_129
+      name: Terrain Sliced (16x16)_129
       rect:
         serializedVersion: 2
         x: 288
@@ -3272,20 +3272,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bab86adb63f822e48b0031ed2954753f
-      internalID: -8608529027667364052
+      spriteID: 655552577aa00f14388bcfe94aa34523
+      internalID: 1073128906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_130
+      name: Terrain Sliced (16x16)_130
       rect:
         serializedVersion: 2
         x: 304
@@ -3293,20 +3293,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8dc52c168607ca64e8b9220c80c02559
-      internalID: -984624906782596688
+      spriteID: 7915634b7d05d2a469b1bb4c663d7483
+      internalID: -1082343692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_131
+      name: Terrain Sliced (16x16)_131
       rect:
         serializedVersion: 2
         x: 320
@@ -3314,20 +3314,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 453844a7c4375fa48ab4e46499aeb30c
-      internalID: -3935483887006374238
+      spriteID: faa8267045a49fa4fa403ea367d015b6
+      internalID: -1745085214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_132
+      name: Terrain Sliced (16x16)_132
       rect:
         serializedVersion: 2
         x: 0
@@ -3335,20 +3335,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df48da2a67e4e7b438ab1222b18d3aa9
-      internalID: 9178892520020476994
+      spriteID: 33dcbbecda2b43d4eb2e520d73071612
+      internalID: -1524724629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_133
+      name: Terrain Sliced (16x16)_133
       rect:
         serializedVersion: 2
         x: 16
@@ -3356,20 +3356,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d879d70579549140a2860c9ffb4394f
-      internalID: -144014455013166516
+      spriteID: 0b143d05666287b439834057c609f31d
+      internalID: 1904850757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_134
+      name: Terrain Sliced (16x16)_134
       rect:
         serializedVersion: 2
         x: 32
@@ -3377,20 +3377,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7bfa2ec5c893054b88c1fd0aa6aa88a
-      internalID: -3253207453764529203
+      spriteID: 3a53444ad73587c44accd1378386ca08
+      internalID: -1980078618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_135
+      name: Terrain Sliced (16x16)_135
       rect:
         serializedVersion: 2
         x: 96
@@ -3398,20 +3398,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc171707b1d22b84fa913a1e8053274c
-      internalID: -7168242779200424501
+      spriteID: 9009472708ebbd7448d0958f4a1f5c76
+      internalID: -458946219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_136
+      name: Terrain Sliced (16x16)_136
       rect:
         serializedVersion: 2
         x: 112
@@ -3419,20 +3419,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f000fc1f314f3a344859a6b9a24041e1
-      internalID: -8219376919472097953
+      spriteID: 70e62bbb54852734a8fd038072cde73d
+      internalID: -674373829
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_137
+      name: Terrain Sliced (16x16)_137
       rect:
         serializedVersion: 2
         x: 128
@@ -3440,20 +3440,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e411fa29d67dd804bb5d805ee6fdbb07
-      internalID: 5344690722283713150
+      spriteID: b01ae8bccf9fddf43a00423fc9068bae
+      internalID: 2011548280
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_138
+      name: Terrain Sliced (16x16)_138
       rect:
         serializedVersion: 2
         x: 208
@@ -3461,20 +3461,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79fcdd4858bedd4438f13b6bc693327b
-      internalID: 5394353238224683576
+      spriteID: 7a005683f2e9d5d4b910713562272088
+      internalID: 1636677237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_139
+      name: Terrain Sliced (16x16)_139
       rect:
         serializedVersion: 2
         x: 224
@@ -3482,20 +3482,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13b10ae49d161424eae5bbfe98ca8e27
-      internalID: 8028931387866111178
+      spriteID: 80797c2d47dd63649a10d8441f8f03cf
+      internalID: -370789008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_140
+      name: Terrain Sliced (16x16)_140
       rect:
         serializedVersion: 2
         x: 240
@@ -3503,20 +3503,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ececbbe1fb3d3714fb40a6dee9d75c73
-      internalID: 2961677793244026094
+      spriteID: b1e57ba4c330943439c314ff65193558
+      internalID: -63875886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_141
+      name: Terrain Sliced (16x16)_141
       rect:
         serializedVersion: 2
         x: 288
@@ -3524,20 +3524,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b60053c52a5b97942bef1f9cf9988104
-      internalID: -2580880771318319752
+      spriteID: b5c441586a4f8f948ab514551a065efd
+      internalID: 467317704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_142
+      name: Terrain Sliced (16x16)_142
       rect:
         serializedVersion: 2
         x: 304
@@ -3545,20 +3545,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a76a7900bbf6c27419ce9220fb8071fc
-      internalID: -2266960901078078804
+      spriteID: 3aa7045f11b6e22469e4d27d1bd38bf1
+      internalID: 278443033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Terrain (16x16)_143
+      name: Terrain Sliced (16x16)_143
       rect:
         serializedVersion: 2
         x: 320
@@ -3566,14 +3566,14 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9bbfe6c75beeb149a03b8f9c3977790
-      internalID: 4320056378629417345
+      spriteID: 1fe13ee479b049b4ca9ee5167b013ff4
+      internalID: -1225816959
       vertices: []
       indices: 
       edges: []
@@ -3589,150 +3589,150 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Terrain (16x16)_0: -4874278423985981231
-      Terrain (16x16)_1: 2492004042214043949
-      Terrain (16x16)_10: 5587568460378422633
-      Terrain (16x16)_100: -9185552814043747542
-      Terrain (16x16)_101: -8204820221692255543
-      Terrain (16x16)_102: -6233458931719022677
-      Terrain (16x16)_103: 1154340479819735195
-      Terrain (16x16)_104: 4778045797586685428
-      Terrain (16x16)_105: 6636356914981313421
-      Terrain (16x16)_106: 1686551188809007541
-      Terrain (16x16)_107: -5930776587842900371
-      Terrain (16x16)_108: -130104546997218819
-      Terrain (16x16)_109: -557614441817400054
-      Terrain (16x16)_11: 4987498479824627636
-      Terrain (16x16)_110: -4356087948441045522
-      Terrain (16x16)_111: 2379953761323448013
-      Terrain (16x16)_112: -8392802036319243359
-      Terrain (16x16)_113: 3768474000973419263
-      Terrain (16x16)_114: -7876864015116417812
-      Terrain (16x16)_115: 2460501278191033764
-      Terrain (16x16)_116: 6516917985212256981
-      Terrain (16x16)_117: 2870588770018888475
-      Terrain (16x16)_118: 6172093022122347682
-      Terrain (16x16)_119: -4745629342412378363
-      Terrain (16x16)_12: 6480251376165907240
-      Terrain (16x16)_120: -796906297672391504
-      Terrain (16x16)_121: 517537040645658821
-      Terrain (16x16)_122: 2348904716778239224
-      Terrain (16x16)_123: 6364211675350883068
-      Terrain (16x16)_124: -4506956802181919417
-      Terrain (16x16)_125: -8554552240816166350
-      Terrain (16x16)_126: 5155531445672774593
-      Terrain (16x16)_127: -8283946481429751769
-      Terrain (16x16)_128: 1437503401646794464
-      Terrain (16x16)_129: -8608529027667364052
-      Terrain (16x16)_13: -8795747966950415410
-      Terrain (16x16)_130: -984624906782596688
-      Terrain (16x16)_131: -3935483887006374238
-      Terrain (16x16)_132: 9178892520020476994
-      Terrain (16x16)_133: -144014455013166516
-      Terrain (16x16)_134: -3253207453764529203
-      Terrain (16x16)_135: -7168242779200424501
-      Terrain (16x16)_136: -8219376919472097953
-      Terrain (16x16)_137: 5344690722283713150
-      Terrain (16x16)_138: 5394353238224683576
-      Terrain (16x16)_139: 8028931387866111178
-      Terrain (16x16)_14: -6278356596846833739
-      Terrain (16x16)_140: 2961677793244026094
-      Terrain (16x16)_141: -2580880771318319752
-      Terrain (16x16)_142: -2266960901078078804
-      Terrain (16x16)_143: 4320056378629417345
-      Terrain (16x16)_15: -7850267199778421155
-      Terrain (16x16)_16: 8102182086558406705
-      Terrain (16x16)_17: 6918280329820428914
-      Terrain (16x16)_18: -3946849515626757761
-      Terrain (16x16)_19: -2698208165065819517
-      Terrain (16x16)_2: 8471289998749917440
-      Terrain (16x16)_20: -5448943668070679941
-      Terrain (16x16)_21: -2572975058836569894
-      Terrain (16x16)_22: 5714336816974921154
-      Terrain (16x16)_23: 8704577166008928185
-      Terrain (16x16)_24: 313651839404696180
-      Terrain (16x16)_25: -1968872540364177098
-      Terrain (16x16)_26: -6401146908380638247
-      Terrain (16x16)_27: -3271834841568197018
-      Terrain (16x16)_28: -3097802831490656063
-      Terrain (16x16)_29: -8182233202742861025
-      Terrain (16x16)_3: 397718093594370940
-      Terrain (16x16)_30: -1730604581034617779
-      Terrain (16x16)_31: -1491035274662818768
-      Terrain (16x16)_32: -223391217462372170
-      Terrain (16x16)_33: 611065533247025525
-      Terrain (16x16)_34: 4356392584696007802
-      Terrain (16x16)_35: -8565927180804605051
-      Terrain (16x16)_36: -7788903373117692988
-      Terrain (16x16)_37: 1918823624152674874
-      Terrain (16x16)_38: 965125185638226396
-      Terrain (16x16)_39: 3631698497521491291
-      Terrain (16x16)_4: 4716054802376701170
-      Terrain (16x16)_40: -1385159882611531606
-      Terrain (16x16)_41: 6882983052497979040
-      Terrain (16x16)_42: 5620700161029325194
-      Terrain (16x16)_43: 4373040517201769238
-      Terrain (16x16)_44: -6530495296205248430
-      Terrain (16x16)_45: 2248595124770686365
-      Terrain (16x16)_46: 59160463414151494
-      Terrain (16x16)_47: 7769017978755655707
-      Terrain (16x16)_48: 4651539075410445323
-      Terrain (16x16)_49: 2934133866269456315
-      Terrain (16x16)_5: -8620202154233844528
-      Terrain (16x16)_50: 1034891850837087948
-      Terrain (16x16)_51: -4533138595082870998
-      Terrain (16x16)_52: 3702685922149842701
-      Terrain (16x16)_53: 510484679990689147
-      Terrain (16x16)_54: 3718556811081376101
-      Terrain (16x16)_55: -5869233480101591377
-      Terrain (16x16)_56: -2615569002567638836
-      Terrain (16x16)_57: 772467259971446145
-      Terrain (16x16)_58: -39983623799505075
-      Terrain (16x16)_59: 6999343348047764492
-      Terrain (16x16)_6: -7517053698926566003
-      Terrain (16x16)_60: -6933530849576539303
-      Terrain (16x16)_61: -8849650766351124748
-      Terrain (16x16)_62: 5344191953466923600
-      Terrain (16x16)_63: 2110485755423906440
-      Terrain (16x16)_64: 611278257802682203
-      Terrain (16x16)_65: 8568688612705805593
-      Terrain (16x16)_66: -4293226751833479062
-      Terrain (16x16)_67: -531863552409210314
-      Terrain (16x16)_68: 3220740477721170248
-      Terrain (16x16)_69: -8232957222563989430
-      Terrain (16x16)_7: 3020870990670601969
-      Terrain (16x16)_70: 3581976363580684779
-      Terrain (16x16)_71: 8137121077619138534
-      Terrain (16x16)_72: -4450007684230045513
-      Terrain (16x16)_73: 368488948622713827
-      Terrain (16x16)_74: -1652666043038260038
-      Terrain (16x16)_75: -3581127029532586042
-      Terrain (16x16)_76: -1130122408560378385
-      Terrain (16x16)_77: 1383883272258276261
-      Terrain (16x16)_78: -5125620877619029284
-      Terrain (16x16)_79: -7056944154279210060
-      Terrain (16x16)_8: 1685935324672158413
-      Terrain (16x16)_80: -9178860142635623461
-      Terrain (16x16)_81: -5377211804188701585
-      Terrain (16x16)_82: -3332869691567337552
-      Terrain (16x16)_83: -7839824748867068813
-      Terrain (16x16)_84: 4860222720029096845
-      Terrain (16x16)_85: -8908544382962373700
-      Terrain (16x16)_86: 2534797647697017659
-      Terrain (16x16)_87: -701145450088738326
-      Terrain (16x16)_88: -7280874316543817821
-      Terrain (16x16)_89: 7816257180041521445
-      Terrain (16x16)_9: 8022139226935704013
-      Terrain (16x16)_90: 4218957088357342075
-      Terrain (16x16)_91: -1647121858502193189
-      Terrain (16x16)_92: 3045001923454373135
-      Terrain (16x16)_93: 6046465229504819404
-      Terrain (16x16)_94: 146925484895311433
-      Terrain (16x16)_95: 3895720443503238059
-      Terrain (16x16)_96: -9019234469899804686
-      Terrain (16x16)_97: 3666724916130892037
-      Terrain (16x16)_98: 4557074923728586563
-      Terrain (16x16)_99: -4531858634233595940
+      Terrain Sliced (16x16)_0: 1411288051
+      Terrain Sliced (16x16)_1: -1052809310
+      Terrain Sliced (16x16)_10: -1385204917
+      Terrain Sliced (16x16)_100: 954429035
+      Terrain Sliced (16x16)_101: -104388638
+      Terrain Sliced (16x16)_102: 1582684494
+      Terrain Sliced (16x16)_103: 1503204991
+      Terrain Sliced (16x16)_104: 1770049155
+      Terrain Sliced (16x16)_105: -540054502
+      Terrain Sliced (16x16)_106: -457495516
+      Terrain Sliced (16x16)_107: 1421652732
+      Terrain Sliced (16x16)_108: -30626426
+      Terrain Sliced (16x16)_109: 635977709
+      Terrain Sliced (16x16)_11: -1558193634
+      Terrain Sliced (16x16)_110: 1498481750
+      Terrain Sliced (16x16)_111: -1678443307
+      Terrain Sliced (16x16)_112: -1074650550
+      Terrain Sliced (16x16)_113: 293177643
+      Terrain Sliced (16x16)_114: 729805267
+      Terrain Sliced (16x16)_115: -541596922
+      Terrain Sliced (16x16)_116: 505263143
+      Terrain Sliced (16x16)_117: -1980084303
+      Terrain Sliced (16x16)_118: -79590184
+      Terrain Sliced (16x16)_119: 1417497381
+      Terrain Sliced (16x16)_12: 1657935740
+      Terrain Sliced (16x16)_120: 1389306428
+      Terrain Sliced (16x16)_121: -1305767161
+      Terrain Sliced (16x16)_122: 2090061341
+      Terrain Sliced (16x16)_123: -388365746
+      Terrain Sliced (16x16)_124: 1645452195
+      Terrain Sliced (16x16)_125: 491117742
+      Terrain Sliced (16x16)_126: 1398629683
+      Terrain Sliced (16x16)_127: -437274343
+      Terrain Sliced (16x16)_128: 144561106
+      Terrain Sliced (16x16)_129: 1073128906
+      Terrain Sliced (16x16)_13: -146817693
+      Terrain Sliced (16x16)_130: -1082343692
+      Terrain Sliced (16x16)_131: -1745085214
+      Terrain Sliced (16x16)_132: -1524724629
+      Terrain Sliced (16x16)_133: 1904850757
+      Terrain Sliced (16x16)_134: -1980078618
+      Terrain Sliced (16x16)_135: -458946219
+      Terrain Sliced (16x16)_136: -674373829
+      Terrain Sliced (16x16)_137: 2011548280
+      Terrain Sliced (16x16)_138: 1636677237
+      Terrain Sliced (16x16)_139: -370789008
+      Terrain Sliced (16x16)_14: 414917527
+      Terrain Sliced (16x16)_140: -63875886
+      Terrain Sliced (16x16)_141: 467317704
+      Terrain Sliced (16x16)_142: 278443033
+      Terrain Sliced (16x16)_143: -1225816959
+      Terrain Sliced (16x16)_15: -1529831506
+      Terrain Sliced (16x16)_16: 447818327
+      Terrain Sliced (16x16)_17: -802640981
+      Terrain Sliced (16x16)_18: 133661525
+      Terrain Sliced (16x16)_19: -1172529047
+      Terrain Sliced (16x16)_2: -1897659984
+      Terrain Sliced (16x16)_20: -9100410
+      Terrain Sliced (16x16)_21: -654537405
+      Terrain Sliced (16x16)_22: 579328374
+      Terrain Sliced (16x16)_23: 1304961942
+      Terrain Sliced (16x16)_24: 624824738
+      Terrain Sliced (16x16)_25: -1001661072
+      Terrain Sliced (16x16)_26: -905398828
+      Terrain Sliced (16x16)_27: -325538217
+      Terrain Sliced (16x16)_28: 1420015163
+      Terrain Sliced (16x16)_29: -2029936497
+      Terrain Sliced (16x16)_3: -1676945889
+      Terrain Sliced (16x16)_30: 78724487
+      Terrain Sliced (16x16)_31: 798513116
+      Terrain Sliced (16x16)_32: 437304081
+      Terrain Sliced (16x16)_33: -1710553058
+      Terrain Sliced (16x16)_34: -1299667427
+      Terrain Sliced (16x16)_35: -668829590
+      Terrain Sliced (16x16)_36: 1006598060
+      Terrain Sliced (16x16)_37: -597581649
+      Terrain Sliced (16x16)_38: 1919703492
+      Terrain Sliced (16x16)_39: -1423788347
+      Terrain Sliced (16x16)_4: -189975912
+      Terrain Sliced (16x16)_40: 384222007
+      Terrain Sliced (16x16)_41: -1235464763
+      Terrain Sliced (16x16)_42: -1081455827
+      Terrain Sliced (16x16)_43: -1623154796
+      Terrain Sliced (16x16)_44: 1622339455
+      Terrain Sliced (16x16)_45: 1473443195
+      Terrain Sliced (16x16)_46: -1926149883
+      Terrain Sliced (16x16)_47: 501499042
+      Terrain Sliced (16x16)_48: 967356348
+      Terrain Sliced (16x16)_49: -1264192569
+      Terrain Sliced (16x16)_5: 634229077
+      Terrain Sliced (16x16)_50: -660690589
+      Terrain Sliced (16x16)_51: -1163948693
+      Terrain Sliced (16x16)_52: 2087149524
+      Terrain Sliced (16x16)_53: -1546879527
+      Terrain Sliced (16x16)_54: 2079691315
+      Terrain Sliced (16x16)_55: -920510475
+      Terrain Sliced (16x16)_56: -561791958
+      Terrain Sliced (16x16)_57: 2124173925
+      Terrain Sliced (16x16)_58: 1551492625
+      Terrain Sliced (16x16)_59: -1360748901
+      Terrain Sliced (16x16)_6: 669544203
+      Terrain Sliced (16x16)_60: -1891718191
+      Terrain Sliced (16x16)_61: -1487264931
+      Terrain Sliced (16x16)_62: -1680139619
+      Terrain Sliced (16x16)_63: 498266684
+      Terrain Sliced (16x16)_64: -536331713
+      Terrain Sliced (16x16)_65: 1207757720
+      Terrain Sliced (16x16)_66: 181843827
+      Terrain Sliced (16x16)_67: 1559531998
+      Terrain Sliced (16x16)_68: -751116661
+      Terrain Sliced (16x16)_69: -1412649045
+      Terrain Sliced (16x16)_7: -2016575813
+      Terrain Sliced (16x16)_70: 830149314
+      Terrain Sliced (16x16)_71: 586197128
+      Terrain Sliced (16x16)_72: -1392928492
+      Terrain Sliced (16x16)_73: 194998402
+      Terrain Sliced (16x16)_74: -2089900500
+      Terrain Sliced (16x16)_75: 2051663979
+      Terrain Sliced (16x16)_76: 2112586496
+      Terrain Sliced (16x16)_77: 405785738
+      Terrain Sliced (16x16)_78: -1242205549
+      Terrain Sliced (16x16)_79: -1565384311
+      Terrain Sliced (16x16)_8: -20693043
+      Terrain Sliced (16x16)_80: 1374020042
+      Terrain Sliced (16x16)_81: 1817909820
+      Terrain Sliced (16x16)_82: 1885482593
+      Terrain Sliced (16x16)_83: 257553379
+      Terrain Sliced (16x16)_84: -436107197
+      Terrain Sliced (16x16)_85: -335025880
+      Terrain Sliced (16x16)_86: -1939675119
+      Terrain Sliced (16x16)_87: 787848313
+      Terrain Sliced (16x16)_88: 307972935
+      Terrain Sliced (16x16)_89: 829153010
+      Terrain Sliced (16x16)_9: -546699860
+      Terrain Sliced (16x16)_90: 332698447
+      Terrain Sliced (16x16)_91: -1279788533
+      Terrain Sliced (16x16)_92: 995767875
+      Terrain Sliced (16x16)_93: 1833684668
+      Terrain Sliced (16x16)_94: -225401177
+      Terrain Sliced (16x16)_95: -368835425
+      Terrain Sliced (16x16)_96: -997017051
+      Terrain Sliced (16x16)_97: 580980240
+      Terrain Sliced (16x16)_98: -2003543445
+      Terrain Sliced (16x16)_99: 547888773
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
